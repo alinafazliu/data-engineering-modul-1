@@ -1,0 +1,626 @@
+play_id,played_at,user,artist,track,duration,country,device
+1,01/09/2026 23:56,U0293,Calvin Harris, Little Promises  ,47,DE,mobile
+2,03/09/2026 21:21,U0025,Billie Eilish, Little Lights  ,1:25,AT,Mobile
+3,2026-09-02 12:52:37,U0075,EMINEM, Northern Thunder  ,86,SK,mobile
+4,02/09/2026 18:38,U0046,Eminem,Broken Shadows,0:17,SK,mobile
+5,2026-09-06 11:03:45,U0396,Kendrick Lamar,electric lights,87,AT,Mobile
+6,2026-09-01 16:43:09,U0006,Ed Sheeran,Paper Dreams,146,HU,mobile
+7,"1 Sep 2026, 04:31",U0676,Bad Bunny,Endless Thunder,1:46,AT,SMART_SPEAKER
+8,2026-09-03 07:12:42,U0554,  Eminem ,Silent Dreams,0:23,,Desktop
+9,03/09/2026 23:30,U0404,ROSALÍA,Silver Hearts,147s,AT,MOBILE
+10,"4 Sep 2026, 12:00",U0397,Kendrick Lamar,Little Skyline,57,PL,Mobile
+11,07/09/2026 10:56,U0202,IMAGINE DRAGONS,Wild Fire,0:07,,desktop
+12,02/09/2026 08:14,U0615,ADELE,Crystal Garden,159,DE,web
+13,02/09/2026 17:51,U0372,Queen,Wild Stars,226,AT,DESKTOP
+14,2026-09-05 12:53:53,U0584,The Weeknd,Neon Highway,2:03,AT,mobile
+15,2026-09-04 07:33:45,U0532,David Guetta,Neon Hearts,75s,,Desktop
+16,07/09/2026 16:29,U0695,Queen, Endless Dreams  ,165,,mobile
+17,2026-09-02 21:24:36,U0711,billie eilish, Faded Stars  ,1:17,AT,mobile
+18,2026-09-06 06:03:10,U0257,Imagine Dragons,Silver River,,AT,mobile
+19,2026-09-01 22:02:49,U0040,Adele,Faded Waves,0:15,AT,smart_speaker
+20,2026-09-03 14:27:53,U0177,Kendrick Lamar,Little Skyline,33,DE,mobile
+21,2026-09-06 09:03:21,U0394,Queen,Cosmic Rain,0:51,AT,Mobile
+22,03/09/2026 16:41,U0060,Dua Lipa, Faded Dreams  ,0:36,DE,desktop
+23,2026-09-07 18:17:54,U0393,ADELE,Hidden Signals,211,CZ,mobile
+24,"4 Sep 2026, 02:19",U0323,taylor swift,Golden Dreams,0:56,sk,mobile
+25,2026-09-02 16:00:04,U0315,taylor swift,Endless Promises,2:34,,desktop
+26,2026-09-07 05:58:12,U0448,david guetta,Faded Hearts,265,de,mobile
+27,06/09/2026 14:01,U0139,the weeknd,Crystal Lights,35s,,smart_speaker
+28,2026-09-02 14:59:00,U0339,Daft Punk,Broken Waves,75,PL,MOBILE
+29,2026-09-01 17:27:41,U0277,Kendrick Lamar,Paper Signals,3:27,,mobile
+30,2026-09-07 17:10:42,U0343,Calvin Harris,Little Promises,260s,PL,Mobile
+31,03/09/2026 08:03,U0179,Dua Lipa, Silent Hearts  ,163,SK,mobile
+32,2026-09-07 07:16:11,U0047,Coldplay,Hidden Skyline,257s, CZ ,mobile
+33,2026-09-06 18:46:15,U0359,ADELE,Crystal Dreams,91s,CZ,mobile
+34,"6 Sep 2026, 14:00",U0181,Kendrick Lamar, Paper Signals  ,1:48,AT,mobile
+35,"4 Sep 2026, 19:05",U0767,Arctic Monkeys, Electric Dreams  ,unknown,SK,mobile
+36,2026-09-02 14:58:51,U0425,Rosalía,Northern Hearts,,HU,MOBILE
+37,2026-09-05 20:31:09,U0612,Taylor Swift,Northern Ocean,3:23,AT,mobile
+38,2026-09-07 20:27:39,U0607,Rosalía,Northern Hearts,2:02,de,mobile
+39,07/09/2026 17:08,U0336,The Weeknd, Broken Thunder  ,83s,AT,desktop
+40,2026-09-04 09:24:10,U0155,  Daft Punk ,Wild Echoes,3:55,,mobile
+41,03/09/2026 22:43,U0054,Adele,Electric Garden,51,AT,smart_speaker
+42,2026-09-07 08:17:57,U0140,EMINEM,Northern Thunder,58s,DE,mobile
+43,2026-09-04 02:51:32,U0076,david guetta,Silent Lights,182,AT,web
+44,2026-09-03 07:35:00,U0026,Kendrick Lamar,Electric Highway,1:29,AT,mobile
+45,"6 Sep 2026, 09:22",U0208,Adele,Electric Garden,2:13,AT,desktop
+46,01/09/2026 17:07,U0642,ED SHEERAN,Paper Dreams,105, AT ,mobile
+47,01/09/2026 22:08,U0714,Billie Eilish, Faded Stars  ,0:24,,Mobile
+48,03/09/2026 18:16,U0615,DAFT PUNK, Broken Highway  ,286s,DE,web
+49,2026-09-02 16:51:52,U0415,Taylor Swift,Golden Dreams,1:57,AT,web
+50,2026-09-02 22:28:26,U0565,Dua Lipa, Neon Promises  ,162,AT,mobile
+51,07/09/2026 22:31,U0793,kendrick lamar,Electric Lights,21,HU,desktop
+52,"3 Sep 2026, 16:36",U0613,Coldplay,Summer Thunder,4:02,AT,desktop
+53,2026-09-07 09:29:02,U0739,queen, Wild Stars  ,1:57,CZ,smart_speaker
+54,"2 Sep 2026, 23:46",U0784,Rosalía,Northern Hearts,1:56,AT,mobile
+55,2026-09-07 06:05:56,U0122,  Queen , Faded Shadows  ,unknown,CZ,mobile
+56,2026-09-07 08:31:29,U0682,LUDOVICO EINAUDI,Velvet Fire,,AT,Desktop
+57,03/09/2026 17:15,U0247,TAYLOR SWIFT,Little Ocean,160,PL,mobile
+58,02/09/2026 00:57,U0464,Arctic Monkeys,Golden Ocean,1:44, SK ,desktop
+59,2026-09-07 23:41:57,U0442,Rosalía,Broken City,138,sk,web
+60,2026-09-03 13:46:07,U0438,dua lipa,Little Thunder,1:22,AT,smart_speaker
+244,2026-09-07 09:34:45,U0255,Bad Bunny,Northern Highway,58,AT,mobile
+61,2026-09-06 07:54:09,U0433,Imagine Dragons,Summer River,36,SK,desktop
+62,2026-09-01 22:05:34,U0178,Bad Bunny,Endless Thunder,153,SK,WEB
+63,2026-09-03 09:30:46,U0362,DUA LIPA,Little Thunder,1:42,SK,mobile
+64,"3 Sep 2026, 04:52",U0592,DAFT PUNK,Crystal Stars,1:53,SK,Mobile
+65,2026-09-03 22:12:36,U0076,The Weeknd,Broken Thunder,189,AT,web
+66,07/09/2026 09:12,U0288,  Ludovico Einaudi ,Velvet Fire,24,HU,MOBILE
+67,2026-09-06 16:49:50,U0789,Billie Eilish,faded echoes,2:32,HU,mobile
+68,2026-09-01 09:25:29,U0057,  Dua Lipa ,Electric Thunder,74,AT,Mobile
+69,2026-09-04 23:52:03,U0336,queen,Faded Shadows,1:12,at,desktop
+70,2026-09-07 20:07:35,U0753,  The Weeknd ,Crystal Lights,80,DE,Mobile
+71,2026-09-06 19:39:46,U0130,TAYLOR SWIFT,Summer City,2:55,AT,mobile
+72,2026-09-07 11:18:51,U0373,Eminem,Velvet Signals,0:41,SK,Mobile
+73,"6 Sep 2026, 20:17",U0407,David Guetta,Lonely Promises,,AT,smart_speaker
+74,03/09/2026 11:27,U0067,QUEEN,Faded Shadows,3:11,PL,desktop
+75,04/09/2026 09:07,U0223,David Guetta,Silver Echoes,94s,SK,desktop
+76,2026-09-03 06:42:42,U0730,Taylor Swift, Electric Skyline  ,0:33,HU,mobile
+77,"7 Sep 2026, 07:33",U0576,Bad Bunny, Faded Lights  ,2:08,SK,web
+78,2026-09-01 00:24:15,U0360,Kendrick Lamar,Endless Dreams,0:21,,desktop
+79,"7 Sep 2026, 20:10",U0490,Coldplay,wild city,120,,desktop
+80,2026-09-01 21:13:21,U0574,Queen, Endless Dreams  ,2:31,CZ,mobile
+81,2026-09-06 07:47:45,U0043,Billie Eilish,Crystal Mirrors,0:49,HU,mobile
+82,2026-09-05 20:28:46,U0459,Bad Bunny,Faded Lights,3:17,AT,smart_speaker
+83,"3 Sep 2026, 22:21",U0038,  Rosalía ,electric rain,186s,PL,MOBILE
+84,2026-09-06 19:21:43,U0366,Taylor Swift,Golden Dreams,0:18,CZ,mobile
+85,2026-09-01 19:15:43,U0162,Ludovico Einaudi,velvet fire,3:14,de,Desktop
+86,04/09/2026 17:13,U0498,  Billie Eilish ,Midnight Garden,1:14,HU,desktop
+87,2026-09-04 07:06:52,U0402,Queen, Hidden Promises  ,1:12,PL,desktop
+88,2026-09-06 20:19:14,U0306,  Billie Eilish , Crystal Mirrors  ,0:33,PL,Desktop
+89,2026-09-03 09:34:55,U0411,Coldplay,Wild City,5:20,DE,WEB
+90,2026-09-06 18:29:51,U0085,Rosalía,Broken Highway,1:55,CZ,desktop
+91,"2 Sep 2026, 21:08",U0401,The Weeknd,Electric Mirrors,0:51,CZ,Desktop
+92,2026-09-04 09:08:45,U0298,Kendrick Lamar,Lonely Highway,1:50,DE,mobile
+93,01/09/2026 19:51,U0575,Billie Eilish,Electric Stars,1:24,DE,Desktop
+94,2026-09-05 13:18:33,U0707,David Guetta,Silent Lights,3:23,AT,mobile
+95,"1 Sep 2026, 16:12",U0531,Billie Eilish,Faded Stars,7s,CZ,mobile
+96,2026-09-04 08:29:06,U0044,EMINEM, Cosmic Echoes  ,5s,HU,mobile
+97,"1 Sep 2026, 18:58",U0354,Calvin Harris,paper garden,1:56, AT ,mobile
+98,2026-09-05 17:22:38,U0699,taylor swift,Little Ocean,93s,DE,web
+99,02/09/2026 14:35,U0389,Billie Eilish,Electric River,1:42,CZ,desktop
+100,04/09/2026 14:27,U0415,  Bad Bunny , Faded Lights  ,130,AT,web
+101,"7 Sep 2026, 08:30",U0239,Billie Eilish, Electric Stars  ,2:23,HU,Web
+102,2026-09-03 21:56:19,U0589,kendrick lamar,Electric Garden,,DE,mobile
+103,"7 Sep 2026, 07:30",U0629,Queen,Faded Shadows,1:58,SK,WEB
+104,2026-09-05 15:51:06,U0668,  Ludovico Einaudi ,Velvet Fire,1:12,AT,mobile
+105,2026-09-01 19:45:57,U0579,Bad Bunny,Faded Lights,69s,HU,desktop
+106,01/09/2026 18:59,U0636,arctic monkeys,Hidden River,293,CZ,MOBILE
+107,2026-09-04 22:24:37,U0144,Coldplay, Summer Thunder  ,0:58,SK,mobile
+108,"2 Sep 2026, 12:11",U0257,Ludovico Einaudi,Velvet Garden,110s,AT,mobile
+109,2026-09-05 20:35:21,U0051,eminem,Northern Thunder,194,AT,mobile
+110,"7 Sep 2026, 20:54",U0104,Kendrick Lamar,Little Skyline,1:59,CZ,mobile
+111,2026-09-01 19:37:05,U0520,QUEEN,Summer Fire,1:35,sk,desktop
+112,2026-09-07 19:51:18,U0334,Taylor Swift, Northern Ocean  ,0:39,AT,MOBILE
+113,2026-09-04 00:37:02,U0186,dua lipa,Little Stars,161,AT,Mobile
+114,2026-09-06 07:13:22,U0623,drake,hidden waves,3:22,pl,Mobile
+115,02/09/2026 17:39,U0525,Adele,Hidden Signals,127,AT,Desktop
+116,2026-09-07 23:20:09,U0543,Bad Bunny,endless thunder,1:38,CZ,mobile
+41,03/09/2026 22:43,U0054,Adele,Electric Garden,51,AT,smart_speaker
+117,2026-09-04 23:56:12,U0133,Dua Lipa,Faded Waves,0:56,CZ,mobile
+118,2026-09-01 13:11:08,U0014,DUA LIPA,Little Thunder,176,AT,desktop
+119,03/09/2026 20:44,U0408,Drake,Northern Mirrors,175s,AT,smart_speaker
+120,02/09/2026 02:52,U0053,  Adele ,Electric Garden,47,,smart speaker
+121,"3 Sep 2026, 14:02",U0178,  Drake , Hidden Waves  ,114,sk,web
+122,05/09/2026 21:44,U0099,Drake,Hidden Waves,60,HU,mobile
+123,"5 Sep 2026, 19:00",U0560,Drake,hidden waves,182,AT,mobile
+124,2026-09-04 16:46:26,U0536,Adele,Little Hearts,0:27,,desktop
+125,03/09/2026 16:18,U0497,THE WEEKND,Crystal Lights,153s,SK,Mobile
+126,2026-09-01 15:36:36,U0144,rosalía,Broken Highway,0:57,,mobile
+127,"3 Sep 2026, 09:07",U0456,Bad Bunny, Summer Letters  ,92,SK,mobile
+128,2026-09-05 09:53:45,U0770,Billie Eilish,Electric Stars,33s,sk,mobile
+129,2026-09-06 19:57:32,U0695,taylor swift,Summer City,3:24,CZ,Mobile
+130,2026-09-05 20:03:44,U0095,DUA LIPA,faded waves,1:27,at,desktop
+131,2026-09-05 13:11:36,U0250,calvin harris,Paper Garden,unknown,DE,desktop
+132,2026-09-03 11:57:29,U0720,  Ludovico Einaudi , Velvet Fire  ,6:31,,desktop
+133,2026-09-03 10:24:27,U0417,billie eilish, Electric River  ,0:44,SK,mobile
+134,2026-09-06 09:07:12,U0124,  Eminem , Summer Skyline  ,2:03,AT,mobile
+135,2026-09-03 07:14:00,U0155,Billie Eilish,Little Lights,10,sk,Mobile
+136,"6 Sep 2026, 11:12",U0692,  Ludovico Einaudi ,Silver River,72,CZ,Mobile
+137,2026-09-02 19:50:35,U0797,  Arctic Monkeys , Golden Ocean  ,,DE,desktop
+138,"2 Sep 2026, 07:03",U0317,Kendrick Lamar, Electric Garden  ,3:01,DE,Desktop
+139,07/09/2026 10:48,U0517,billie eilish,Velvet River,2:04,at,mobile
+140,"4 Sep 2026, 20:51",U0467,Imagine Dragons,Golden Mirrors,170,CZ,mobile
+141,"7 Sep 2026, 07:26",U0441,Bad Bunny,Endless Thunder,2:13,DE,smart speaker
+338,2026-09-06 07:06:57,U0566,queen,Silver Waves,4:36,HU,desktop
+142,2026-09-04 08:18:44,U0100,Imagine Dragons,Golden Mirrors,0:06,CZ,mobile
+143,2026-09-02 15:19:03,U0250,  Taylor Swift ,Endless Promises,3:05,DE,Desktop
+144,2026-09-05 08:41:50,U0076,Bad Bunny, Faded Lights  ,78,AT,web
+145,"1 Sep 2026, 13:21",U0001,  Drake ,Northern Mirrors,1:10,SK,desktop
+146,"1 Sep 2026, 06:11",U0156,dua lipa,faded waves,1:31,DE,mobile
+147,07/09/2026 19:03,U0373,Drake,Cosmic Lights,178,SK,mobile
+148,2026-09-03 09:49:40,U0005,  Bad Bunny , Faded Lights  ,1:12,cz,mobile
+149,2026-09-01 18:25:30,U0102,Ed Sheeran, Broken Rain  ,1:02,DE,mobile
+150,01/09/2026 07:18,U0649,Taylor Swift, Northern Ocean  ,0:27,AT,smart_speaker
+151,"2 Sep 2026, 13:22",U0279,Drake,Silver Lights,1:10,CZ,desktop
+152,2026-09-03 15:25:25,U0071,  The Weeknd ,Crystal Lights,,CZ,Mobile
+153,2026-09-07 11:34:24,U0525,  Billie Eilish ,Little Lights,1:38,,desktop
+154,"5 Sep 2026, 15:31",U0272,Dua Lipa,Little Thunder,2:45, AT ,mobile
+155,2026-09-01 02:33:39,U0713,DAFT PUNK,Crystal Stars,,AT,mobile
+156,"1 Sep 2026, 12:19",U0064,queen,Faded Shadows,0:59,SK,MOBILE
+157,07/09/2026 23:20,U0616,David Guetta, Lonely Promises  ,23,SK,Web
+158,04/09/2026 11:44,U0744,Billie Eilish, Broken Letters  ,0:17,DE,desktop
+159,2026-09-04 20:45:39,U0048,Taylor Swift, Electric Mirrors  ,49,HU,mobile
+160,"1 Sep 2026, 08:18",U0521,Billie Eilish,Northern Signals,126,,MOBILE
+161,2026-09-02 20:41:24,U0204,  Eminem ,Silent Dreams,0:18,DE,desktop
+162,2026-09-01 17:16:11,U0366,The Weeknd,Crystal Lights,161,CZ,mobile
+163,2026-09-05 21:01:02,U0751,Adele,Crystal Garden,1:50,,mobile
+164,2026-09-04 14:01:26,U0729,Billie Eilish,Electric Stars,84s,AT,Mobile
+165,2026-09-03 14:23:45,U0069,  Eminem ,Broken Shadows,1:43,,desktop
+166,2026-09-07 17:29:34,U0513,bad bunny,silent skyline,70s,AT,web
+167,"1 Sep 2026, 07:26",U0072,  Ludovico Einaudi ,Lonely Skyline,80s,CZ,web
+168,"3 Sep 2026, 15:42",U0144,Taylor Swift,Little Ocean,1:06,SK,mobile
+169,2026-09-01 15:55:21,U0538,Rosalía,Broken Highway,2:09,DE,mobile
+170,2026-09-03 21:50:09,U0207,THE WEEKND,Broken Thunder,0:12,DE,mobile
+171,2026-09-02 19:29:16,U0225,  Ed Sheeran ,broken rain,29,AT,Desktop
+172,2026-09-06 20:56:31,U0204,Billie Eilish,Faded Stars,2:31,DE,desktop
+173,2026-09-01 18:37:09,U0673,BILLIE EILISH,Little Lights,195,AT,mobile
+174,04/09/2026 17:11,U0088,TAYLOR SWIFT,Little Ocean,52,PL,Desktop
+175,2026-09-04 13:10:32,U0630,Daft Punk,Wild Echoes,2:43,SK,web
+176,2026-09-05 00:16:28,U0625,bad bunny, Summer Letters  ,164s,sk,desktop
+177,2026-09-07 11:50:46,U0709,DRAKE,Cosmic Lights,1:57,AT,mobile
+178,05/09/2026 20:26,U0780,David Guetta,Neon Hearts,74s,AT,smart_speaker
+179,2026-09-05 20:36:41,U0764,THE WEEKND,Electric Mirrors,0:14,PL,Desktop
+180,2026-09-05 18:49:46,U0456,Eminem,Hidden City,136,SK,Mobile
+181,2026-09-02 07:57:02,U0552,ROSALÍA,Paper Letters,2:09,SK,mobile
+182,2026-09-05 18:26:28,U0216,  Rosalía ,Lonely City,132,PL,mobile
+183,"4 Sep 2026, 12:16",U0275,Coldplay,Hidden Skyline,71s,DE,mobile
+184,07/09/2026 20:04,U0377,BAD BUNNY,Endless Thunder,76,DE,mobile
+185,2026-09-05 12:03:39,U0231,BILLIE EILISH,Electric River,171,PL,mobile
+186,01/09/2026 16:01,U0644,DUA LIPA,Little Thunder,unknown,DE,mobile
+187,03/09/2026 13:16,U0760,Ludovico Einaudi, Velvet Garden  ,19s,AT,smart speaker
+188,2026-09-07 21:01:55,U0754,Taylor Swift, Wild Rain  ,54,SK,mobile
+189,"2 Sep 2026, 18:57",U0654,EMINEM, Velvet Signals  ,70,de,Mobile
+190,2026-09-07 15:16:26,U0202,daft punk,Faded City,82,,desktop
+191,2026-09-04 06:34:03,U0673,Coldplay,Wild City,3:30,AT,mobile
+192,2026-09-03 21:16:09,U0794,  Coldplay ,Wild Lights,5:01,at,mobile
+193,04/09/2026 14:54,U0629,David Guetta,Silent Lights,3:23,SK,web
+194,"1 Sep 2026, 10:06",U0303,  Bad Bunny ,Faded Waves,2:18,CZ,smart_speaker
+195,07/09/2026 08:21,U0221,Eminem,Neon Dreams,166,AT,desktop
+196,2026-09-02 23:11:47,U0405,Ed Sheeran, Broken Rain  ,117s,SK,mobile
+197,"6 Sep 2026, 10:03",U0316,EMINEM,Northern Thunder,84s,AT,mobile
+198,2026-09-02 03:20:48,U0203,David Guetta,Lonely Promises,245,SK,Mobile
+199,2026-09-02 11:50:59,U0221,Queen,Faded Shadows,31s,,desktop
+450,2026-09-03 21:59:17,U0598,Imagine Dragons,Wild Fire,2:19,AT,desktop
+200,2026-09-03 07:38:34,U0065,  Taylor Swift ,electric skyline,0:16,AT,Mobile
+201,2026-09-03 14:29:44,U0618,Bad Bunny, Endless Thunder  ,,HU,mobile
+202,04/09/2026 06:26,U0191,Kendrick Lamar,Endless Dreams,181,DE,Mobile
+203,01/09/2026 11:32,U0242,Eminem,Northern Thunder,141s, HU ,mobile
+204,2026-09-02 22:46:34,U0338,the weeknd, Electric Mirrors  ,189,SK,smart_speaker
+205,2026-09-07 06:06:56,U0206,Coldplay,Summer Thunder,2:12,HU,mobile
+206,06/09/2026 08:02,U0285,billie eilish,Little Lights,0:10,PL,Mobile
+207,2026-09-06 12:34:05,U0717,adele,Faded Waves,0:33,DE,mobile
+208,06/09/2026 16:24,U0222,  Imagine Dragons ,Little Fire,119,AT,Mobile
+209,2026-09-01 15:20:59,U0752,Kendrick Lamar, Lonely Mirrors  ,0:17,sk,web
+210,05/09/2026 15:48,U0604,ARCTIC MONKEYS,wild echoes,110,AT,desktop
+211,"5 Sep 2026, 07:09",U0402,kendrick lamar, Lonely Mirrors  ,47,PL,desktop
+212,05/09/2026 02:45,U0007,Queen,Hidden Promises,3:24,SK,mobile
+213,2026-09-07 12:36:56,U0233,LUDOVICO EINAUDI,Lonely Skyline,198,CZ,mobile
+214,"6 Sep 2026, 19:12",U0623,Drake, Silver Lights  ,3:04,PL,mobile
+215,2026-09-01 16:14:09,U0453,Adele,Lonely Lights,85s,DE,mobile
+216,05/09/2026 07:04,U0798,Bad Bunny,Endless Thunder,173s,AT,smart_speaker
+217,04/09/2026 20:32,U0150,Calvin Harris,Silent Ocean,2:47,SK,Mobile
+218,05/09/2026 07:33,U0528,Kendrick Lamar,Electric Garden,2:07,SK,web
+219,2026-09-06 07:14:03,U0372,Calvin Harris, Lonely River  ,1:20,AT,desktop
+220,2026-09-02 17:11:20,U0099,  Billie Eilish ,Faded Stars,1:55,hu,mobile
+221,01/09/2026 18:50,U0683,BAD BUNNY,Faded Lights,3:22,CZ,mobile
+222,"4 Sep 2026, 18:40",U0001,TAYLOR SWIFT,Little Ocean,0:36,SK,DESKTOP
+223,2026-09-06 05:40:14,U0469,David Guetta,Velvet Highway,56,de,mobile
+224,"7 Sep 2026, 13:32",U0410,David Guetta,Neon Hearts,1:44,AT,mobile
+225,2026-09-01 20:15:51,U0190,taylor swift, Endless Promises  ,176,PL,mobile
+226,02/09/2026 14:22,U0615,Rosalía,Broken Highway,2:45,DE,web
+227,03/09/2026 06:10,U0167,  Billie Eilish ,Lonely Rain,2:40,AT,Desktop
+228,2026-09-03 19:17:34,U0130,Imagine Dragons,Northern Ocean,3:19,AT,mobile
+229,"4 Sep 2026, 09:05",U0650,the weeknd,Electric Echoes,2:39,PL,Mobile
+230,01/09/2026 08:05,U0412,  Queen ,faded shadows,134,DE,desktop
+231,05/09/2026 18:58,U0633,QUEEN,Hidden Promises,202,,smart_speaker
+189,"2 Sep 2026, 18:57",U0654,EMINEM, Velvet Signals  ,70,de,Mobile
+232,2026-09-01 14:10:17,U0392,adele,Hidden Signals,2:55,,Desktop
+233,01/09/2026 11:57,U0505,Calvin Harris, Lonely River  ,64s,DE,desktop
+234,07/09/2026 11:33,U0777,ed sheeran,Paper Dreams,2:17,AT,Mobile
+235,01/09/2026 05:29,U0507,Imagine Dragons,Golden Mirrors,92,AT,Mobile
+236,02/09/2026 00:26,U0062,bad bunny,Faded Lights,0:57,AT,MOBILE
+237,2026-09-05 18:52:18,U0693,The Weeknd,Crystal Lights,1:07,AT,mobile
+238,2026-09-06 16:34:11,U0324,Eminem,cosmic echoes,1:56,PL,desktop
+417,2026-09-01 22:25:05,U0714,Daft Punk,Summer Lights,169,,mobile
+239,03/09/2026 17:38,U0444,Rosalía,Silent Stars,120,DE,mobile
+240,01/09/2026 13:19,U0782,Drake, Cosmic Waves  ,155s,SK,Mobile
+241,"4 Sep 2026, 07:52",U0288,TAYLOR SWIFT,electric mirrors,2:11,HU,mobile
+242,2026-09-01 08:59:41,U0277,Arctic Monkeys, Hidden River  ,1:38,,mobile
+243,2026-09-07 09:18:20,U0012,Calvin Harris,Lonely River,2:41,PL,Mobile
+244,2026-09-07 09:34:45,U0255,Bad Bunny,Northern Highway,58,AT,mobile
+245,2026-09-02 08:30:49,U0563,Drake,Hidden Waves,0:55,CZ,Desktop
+246,2026-09-05 21:28:19,U0424,Adele, Summer Signals  ,150s,CZ,MOBILE
+247,2026-09-01 22:04:08,U0675,Drake,Summer Letters,3:58,HU,desktop
+248,2026-09-06 16:49:30,U0509,DRAKE,hidden waves,0:07,CZ,smart_speaker
+249,2026-09-02 11:44:42,U0471,the weeknd,Neon Highway,88, DE ,mobile
+250,04/09/2026 10:28,U0285,Bad Bunny, Summer Letters  ,172,PL,MOBILE
+251,2026-09-02 22:33:51,U0640,Eminem, Velvet Signals  ,171,AT,Desktop
+252,2026-09-05 19:54:14,U0582,Ludovico Einaudi, Velvet Fire  ,,HU,DESKTOP
+253,06/09/2026 08:01,U0019,HANS ZIMMER,Little Ocean,103,at,Mobile
+254,2026-09-07 13:43:07,U0665,The Weeknd,Electric Echoes,unknown,SK,smart_speaker
+255,"4 Sep 2026, 11:37",U0241,  Adele ,Electric Garden,,SK,Mobile
+256,2026-09-02 16:29:57,U0429,  Imagine Dragons ,Burning Mirrors,,SK,Mobile
+257,2026-09-04 08:44:37,U0495,Queen,Summer Fire,112,SK,Mobile
+258,06/09/2026 18:42,U0065,Imagine Dragons,Wild Fire,247s,AT,mobile
+259,2026-09-01 09:06:54,U0317,  Bad Bunny ,Endless Thunder,8s, DE ,Desktop
+260,2026-09-04 09:50:06,U0260,kendrick lamar,Little Skyline,unknown, AT ,Mobile
+261,"5 Sep 2026, 13:38",U0220,Ludovico Einaudi,Northern River,2:56,AT,SMART_SPEAKER
+262,04/09/2026 21:25,U0507,The Weeknd,crystal lights,2:43,at,mobile
+263,"6 Sep 2026, 22:01",U0142,dua lipa,Little Thunder,18,PL,mobile
+264,06/09/2026 18:49,U0222,  Ludovico Einaudi ,Velvet Fire,0:07, AT ,mobile
+265,07/09/2026 10:12,U0267,IMAGINE DRAGONS,Endless Hearts,192,CZ,mobile
+266,"3 Sep 2026, 10:26",U0492,TAYLOR SWIFT,Golden Dreams,159,SK,mobile
+267,2026-09-02 17:42:45,U0347,ED SHEERAN,Paper Dreams,2:15,HU,DESKTOP
+268,2026-09-01 20:11:24,U0105,Imagine Dragons,Little Fire,230,CZ,web
+555,2026-09-06 03:30:27,U0778,ADELE,Little Mirrors,178,CZ,Desktop
+269,"2 Sep 2026, 20:00",U0539,Billie Eilish, Northern Signals  ,67,SK,mobile
+270,2026-09-03 23:07:05,U0652,Queen,Faded Shadows,,AT,desktop
+271,05/09/2026 18:17,U0121,KENDRICK LAMAR,electric highway,102,,mobile
+272,2026-09-01 10:19:18,U0405,  Ludovico Einaudi ,Broken Thunder,1:25,SK,mobile
+273,2026-09-01 04:07:58,U0508,adele,Hidden Signals,2:11,CZ,mobile
+274,"4 Sep 2026, 19:59",U0446,  Calvin Harris , Little Promises  ,215,AT,mobile
+275,07/09/2026 18:00,U0565,Daft Punk,Velvet Rain,0:29,AT,Mobile
+276,02/09/2026 08:42,U0120,The Weeknd,Electric Mirrors,96,cz,web
+277,2026-09-02 17:57:34,U0281,Imagine Dragons,Wild Hearts,,SK,mobile
+278,"7 Sep 2026, 23:56",U0492,Daft Punk,Wild Echoes,0:23,SK,mobile
+282,2026-09-04 12:07:37,U0751,IMAGINE DRAGONS,Burning Mirrors,0:56,cz,MOBILE
+279,2026-09-07 19:26:19,U0089,ADELE,Faded Waves,112s,CZ,mobile
+280,2026-09-01 06:18:31,U0748,bad bunny, Faded Lights  ,171,AT,desktop
+281,04/09/2026 19:44,U0761,The Weeknd,broken thunder,unknown,PL,Mobile
+99,02/09/2026 14:35,U0389,Billie Eilish,Electric River,1:42,CZ,desktop
+282,2026-09-04 12:07:37,U0751,IMAGINE DRAGONS,Burning Mirrors,0:56,cz,MOBILE
+283,"1 Sep 2026, 09:16",U0155,bad bunny,faded lights,1:45,SK,mobile
+284,2026-09-03 09:24:50,U0731,DRAKE, Silver Lights  ,3:09,CZ,mobile
+285,03/09/2026 19:42,U0527,DAVID GUETTA,Broken Skyline,,DE,web
+286,"5 Sep 2026, 12:26",U0053,  The Weeknd ,Crystal Lights,87,DE,smart_speaker
+287,2026-09-06 01:40:45,U0027,DAVID GUETTA, Neon Fire  ,117s,pl,mobile
+288,"6 Sep 2026, 18:21",U0051,taylor swift,Endless Promises,0:46,AT,MOBILE
+289,2026-09-03 03:43:16,U0767,coldplay,Summer Thunder,1:16, SK ,mobile
+290,"7 Sep 2026, 20:05",U0044,dua lipa,Faded Waves,1:21,HU,MOBILE
+291,"4 Sep 2026, 16:50",U0238,IMAGINE DRAGONS,Burning Mirrors,100,HU,Mobile
+292,2026-09-03 18:04:24,U0432,TAYLOR SWIFT,Endless Promises,103,DE,mobile
+293,"5 Sep 2026, 20:03",U0738,taylor swift,Little Ocean,122s,AT,mobile
+294,2026-09-04 21:59:09,U0644,daft punk,Broken Waves,165s,DE,mobile
+295,2026-09-05 18:56:00,U0406,Queen,Wild Stars,3:44,CZ,Mobile
+293,"5 Sep 2026, 20:03",U0738,taylor swift,Little Ocean,122s,AT,mobile
+296,2026-09-02 17:06:58,U0018,DRAKE, Hidden Waves  ,12,SK,mobile
+297,2026-09-01 22:34:13,U0658,Rosalía,Silver Hearts,3:33,DE,desktop
+298,2026-09-02 19:31:30,U0310,DRAKE,Cosmic Lights,135s,SK,desktop
+299,07/09/2026 16:55,U0759,Billie Eilish, Electric River  ,2:33,AT,mobile
+300,"7 Sep 2026, 18:14",U0362,Bad Bunny,Silent Skyline,209s,SK,mobile
+301,06/09/2026 06:40,U0352,ROSALÍA,Lonely Ocean,151s,DE,Mobile
+302,2026-09-05 20:26:09,U0668,  David Guetta ,Velvet Highway,0:11,AT,mobile
+303,2026-09-05 21:45:19,U0230,Rosalía, Broken Highway  ,100,SK,desktop
+304,"5 Sep 2026, 20:05",U0707,Ed Sheeran,Golden Mirrors,1:38,AT,MOBILE
+229,"4 Sep 2026, 09:05",U0650,the weeknd,Electric Echoes,2:39,PL,Mobile
+158,04/09/2026 11:44,U0744,Billie Eilish, Broken Letters  ,0:17,DE,desktop
+305,07/09/2026 12:14,U0505,The Weeknd,Crystal Lights,176,DE,desktop
+306,"5 Sep 2026, 08:31",U0229,Imagine Dragons,Golden Mirrors,1:13,,WEB
+307,2026-09-05 14:39:52,U0780,Billie Eilish,Crystal Mirrors,56,AT,smart_speaker
+308,2026-09-02 07:04:30,U0786,LUDOVICO EINAUDI,velvet garden,2:00,HU,smart_speaker
+309,02/09/2026 18:43,U0531,Billie Eilish,Velvet River,16,CZ,mobile
+310,06/09/2026 13:52,U0327,calvin harris,Silent Ocean,2:31,AT,mobile
+311,2026-09-05 23:33:31,U0681,ROSALÍA, Northern Hearts  ,21,,mobile
+312,06/09/2026 19:51,U0741,  Dua Lipa ,Little Stars,2:45,SK,Mobile
+313,2026-09-01 16:44:59,U0233,Kendrick Lamar,Little Skyline,1:02,CZ,mobile
+314,"2 Sep 2026, 14:56",U0728,billie eilish,Velvet River,13,CZ,desktop
+315,2026-09-04 16:30:19,U0765,The Weeknd, Electric Echoes  ,209,PL,mobile
+316,"2 Sep 2026, 17:47",U0725,billie eilish,Broken Letters,167s,,DESKTOP
+317,"3 Sep 2026, 20:29",U0511,The Weeknd,Crystal Lights,168,DE,mobile
+318,2026-09-04 23:41:01,U0661,ludovico einaudi,Silver River,2:08,,DESKTOP
+319,2026-09-02 15:55:26,U0585,  Ludovico Einaudi ,Velvet Fire,6:07,,mobile
+320,2026-09-04 11:08:27,U0352,  Ed Sheeran ,Endless Mirrors,59,DE,mobile
+321,01/09/2026 07:33,U0329,Taylor Swift, Little Ocean  ,1:12,,Smart_speaker
+322,2026-09-03 19:37:17,U0371,Dua Lipa,Faded City,1:11,CZ,WEB
+323,01/09/2026 12:01,U0452,Eminem,Neon Dreams,1:57,SK,mobile
+324,2026-09-06 19:38:27,U0467,DRAKE,Summer Letters,141s, CZ ,mobile
+325,"3 Sep 2026, 06:48",U0171,Bad Bunny,Silent Skyline,1:24,AT,web
+326,2026-09-04 09:03:16,U0459,The Weeknd,Electric Mirrors,81,at,smart_speaker
+214,"6 Sep 2026, 19:12",U0623,Drake, Silver Lights  ,3:04,PL,mobile
+327,2026-09-03 09:07:09,U0042,Taylor Swift,Summer City,99,PL,MOBILE
+307,2026-09-05 14:39:52,U0780,Billie Eilish,Crystal Mirrors,56,AT,smart_speaker
+328,05/09/2026 10:11,U0546,rosalía, Lonely City  ,2:33,CZ,web
+329,04/09/2026 11:17,U0211,Rosalía,Burning Ocean,0:27,CZ,desktop
+330,2026-09-07 07:22:00,U0104,The Weeknd,Crystal Lights,2:21,CZ,mobile
+331,2026-09-01 20:28:57,U0032,QUEEN,Hidden Promises,3:12,SK,mobile
+332,2026-09-07 18:42:47,U0406,the weeknd,Electric Echoes,72,CZ,Mobile
+333,2026-09-06 08:11:32,U0237,Daft Punk, Faded City  ,59,AT,mobile
+334,2026-09-03 22:30:27,U0150,  Billie Eilish ,Little Lights,3:05,SK,MOBILE
+335,2026-09-03 05:20:48,U0464,ADELE,Crystal Dreams,148,SK,desktop
+578,2026-09-06 19:24:32,U0022,  Taylor Swift , Electric Skyline  ,0:44,AT,desktop
+336,07/09/2026 16:14,U0429,BAD BUNNY,endless thunder,12,SK,mobile
+337,01/09/2026 19:35,U0688,arctic monkeys,Paper Fire,179,DE,Desktop
+338,2026-09-06 07:06:57,U0566,queen,Silver Waves,4:36,HU,desktop
+339,2026-09-05 21:31:59,U0501,Kendrick Lamar,Lonely Highway,3:00,hu,mobile
+340,2026-09-04 10:43:04,U0609,Ludovico Einaudi,Northern River,128s,CZ,Web
+341,03/09/2026 19:28,U0068,  Kendrick Lamar , Little Skyline  ,140, AT ,mobile
+342,"4 Sep 2026, 19:15",U0248,Hans Zimmer,Silent Signals,,SK,smart_speaker
+343,2026-09-04 20:29:43,U0794,David Guetta,Faded Hearts,0:32,AT,mobile
+344,01/09/2026 09:27,U0765,  Bad Bunny ,Silent Skyline,126,,mobile
+345,2026-09-05 07:42:20,U0787,Dua Lipa,silent stars,2:36,CZ,mobile
+346,07/09/2026 08:22,U0035,drake,Summer Letters,2:39,CZ,Web
+347,2026-09-02 09:24:10,U0730,IMAGINE DRAGONS,Endless Hearts,65,HU,mobile
+348,2026-09-06 18:20:28,U0002,KENDRICK LAMAR,lonely highway,4:00, SK ,mobile
+349,"3 Sep 2026, 12:40",U0476,rosalía,Lonely City,0:56, SK ,desktop
+350,06/09/2026 14:42,U0080,Daft Punk,Faded Ocean,2:14,SK,desktop
+351,"1 Sep 2026, 14:01",U0289,Adele,Lonely Lights,2:07,AT,Mobile
+352,2026-09-03 20:23:34,U0517,Rosalía,Silent Stars,67,AT,mobile
+353,2026-09-03 16:21:31,U0776,Queen,faded shadows,184,AT,Mobile
+554,"2 Sep 2026, 07:32",U0504,DAVID GUETTA,Paper Lights,2:02,DE,desktop
+354,2026-09-05 17:45:03,U0163,Billie Eilish, Electric Stars  ,0:23,AT,MOBILE
+355,2026-09-07 14:31:46,U0187,THE WEEKND,Neon Highway,3:25,HU,Mobile
+356,06/09/2026 10:16,U0445,Drake,Silver Lights,54,HU,mobile
+357,01/09/2026 06:15,U0707,David Guetta,Faded Hearts,209s,AT,Mobile
+358,2026-09-02 22:29:18,U0601,dua lipa,Faded Waves,3:08,de,mobile
+462,2026-09-02 20:12:19,U0484,  Billie Eilish ,Little Lights,204,,MOBILE
+359,"2 Sep 2026, 07:56",U0370,Ed Sheeran,Northern Ocean,0:27,de,desktop
+360,2026-09-01 22:07:42,U0182,  Taylor Swift ,Northern Ocean,29s,DE,WEB
+361,"6 Sep 2026, 18:43",U0798,Imagine Dragons,Summer River,21, AT ,smart_speaker
+362,"5 Sep 2026, 07:29",U0244,Rosalía,Paper Letters,unknown,AT,desktop
+363,"4 Sep 2026, 10:25",U0002,Ed Sheeran,Northern Ocean,2:29,SK,mobile
+364,2026-09-07 12:53:28,U0082,The Weeknd,Crystal Lights,147s, AT ,Desktop
+365,"1 Sep 2026, 07:37",U0062,Taylor Swift,Little Ocean,0:33,AT,mobile
+366,"1 Sep 2026, 19:36",U0717,QUEEN,Silver Waves,3:14,DE,mobile
+367,2026-09-05 08:48:46,U0318,Arctic Monkeys,Paper Garden,0:50,CZ,web
+368,02/09/2026 12:20,U0342,Adele, Little Hearts  ,0:31,de,Mobile
+369,04/09/2026 13:44,U0514,Dua Lipa, Electric Thunder  ,6s,AT,mobile
+370,"6 Sep 2026, 17:33",U0215,DRAKE,Burning River,0:56,HU,Web
+371,2026-09-02 07:03:23,U0060,Imagine Dragons,Little Fire,27s,DE,desktop
+372,01/09/2026 18:56,U0423,BILLIE EILISH,Little Lights,0:57,AT,mobile
+373,2026-09-06 11:13:54,U0028,David Guetta,Silver Echoes,85s,DE,web
+374,04/09/2026 20:30,U0158,Queen,Cosmic Rain,195,CZ,DESKTOP
+375,2026-09-07 21:58:04,U0421,adele,Little Mirrors,59,AT,Mobile
+376,"4 Sep 2026, 06:31",U0543,The Weeknd,Broken Thunder,176s, CZ ,Mobile
+565,2026-09-06 18:25:09,U0354,Drake,Electric Waves,1:29,AT,mobile
+377,06/09/2026 14:37,U0483,  Billie Eilish ,Crystal Mirrors,171,DE,smart_speaker
+378,02/09/2026 08:20,U0746,Coldplay,Wild City,32,CZ,Web
+379,05/09/2026 22:18,U0709,ed sheeran,Endless Mirrors,190s,AT,mobile
+380,07/09/2026 17:38,U0345,  Eminem , Velvet Signals  ,181,,mobile
+381,2026-09-07 12:12:11,U0167,Queen, Faded Shadows  ,,AT,desktop
+382,"6 Sep 2026, 14:04",U0751,Adele,electric skyline,2:24,CZ,Mobile
+383,"1 Sep 2026, 19:59",U0638,  Taylor Swift ,Endless Promises,2:28,SK,web
+384,06/09/2026 17:49,U0563,dua lipa,Silent Stars,204,,desktop
+385,03/09/2026 20:02,U0362,queen,Endless Dreams,2:28,SK,mobile
+386,07/09/2026 12:12,U0075,Kendrick Lamar,Little Skyline,0:56,SK,Mobile
+387,01/09/2026 20:05,U0167,adele, Electric Garden  ,0:10,AT,desktop
+388,2026-09-01 07:51:22,U0744,Billie Eilish,Electric River,,DE,desktop
+389,"4 Sep 2026, 17:26",U0797,Queen,Endless Dreams,288s,DE,desktop
+390,2026-09-06 22:22:16,U0282,Taylor Swift,Wild Rain,120s, SK ,mobile
+391,2026-09-06 20:34:24,U0377,  Coldplay ,Wild City,159,DE,Mobile
+392,"3 Sep 2026, 12:42",U0213,Rosalía,Broken Highway,16s,SK,desktop
+540,03/09/2026 21:02,U0253,  Billie Eilish ,Little Lights,3:00,SK,mobile
+393,2026-09-05 13:21:07,U0526,daft punk,Faded City,3:16,PL,web
+394,"2 Sep 2026, 10:27",U0174,David Guetta,Silent Lights,2:13,AT,mobile
+395,2026-09-07 13:50:05,U0653,daft punk,Crystal Stars,52,AT,mobile
+396,2026-09-02 12:19:28,U0011,Adele,Electric Garden,,HU,smart_speaker
+397,04/09/2026 18:30,U0671,rosalía,Broken Highway,0:59,HU,mobile
+398,"1 Sep 2026, 12:37",U0637,Calvin Harris,Lonely River,0:10,AT,web
+399,2026-09-07 20:17:30,U0228,the weeknd, Silver Letters  ,111,CZ,mobile
+400,2026-09-03 14:10:48,U0213,Imagine Dragons,Wild Fire,3:51, SK ,Desktop
+401,"2 Sep 2026, 08:16",U0647,  Coldplay ,Silent Shadows,94,DE,Smart_speaker
+402,"3 Sep 2026, 13:26",U0548,TAYLOR SWIFT, Northern Ocean  ,3:00,PL,mobile
+403,2026-09-05 15:06:32,U0566,Ludovico Einaudi,Little River,,HU,desktop
+404,2026-09-05 14:36:44,U0091,Dua Lipa, Electric Thunder  ,155s,PL,mobile
+405,2026-09-05 07:14:37,U0646,Adele,Summer Signals,207s,DE,mobile
+406,2026-09-05 19:00:28,U0782,Eminem,Broken Shadows,unknown, SK ,mobile
+407,2026-09-01 19:52:13,U0186,Dua Lipa,Silent Hearts,0:54,AT,Mobile
+408,2026-09-02 20:20:06,U0424,Dua Lipa,Electric Thunder,66,CZ,Mobile
+409,2026-09-02 21:17:03,U0238,Dua Lipa,Little Stars,0:06,HU,mobile
+410,07/09/2026 22:20,U0321,the weeknd,Neon Highway,141,HU,mobile
+411,07/09/2026 16:54,U0251,The Weeknd,Crystal Lights,68,sk,Mobile
+412,2026-09-03 09:25:09,U0282,  Imagine Dragons ,Burning Mirrors,106s,SK,MOBILE
+413,2026-09-05 20:09:42,U0247,Billie Eilish,Lonely Rain,1:55,PL,Mobile
+414,04/09/2026 06:58,U0536,Dua Lipa,Faded Dreams,82,AT,desktop
+415,"1 Sep 2026, 07:48",U0357,QUEEN, Summer Fire  ,119,AT,MOBILE
+416,2026-09-07 07:19:00,U0800,Taylor Swift,endless promises,158,HU,mobile
+417,2026-09-01 22:25:05,U0714,Daft Punk,Summer Lights,169,,mobile
+418,06/09/2026 00:15,U0200,IMAGINE DRAGONS,Golden Mirrors,247,AT,Smart_speaker
+419,01/09/2026 10:35,U0144,Ed Sheeran,Endless Mirrors,85,,mobile
+420,02/09/2026 17:56,U0025,Kendrick Lamar,Little Skyline,32s,AT,Mobile
+421,2026-09-04 14:20:25,U0678,The Weeknd,Electric Mirrors,17,SK,WEB
+422,2026-09-06 17:30:46,U0381,dua lipa,Faded City,16,SK,mobile
+423,2026-09-03 20:52:52,U0164,  Drake ,Electric Lights,72,DE,mobile
+424,2026-09-07 11:42:38,U0763,Daft Punk,Faded City,1:48,at,Mobile
+425,01/09/2026 21:02,U0272,KENDRICK LAMAR,Little Skyline,165,AT,mobile
+426,2026-09-04 07:04:23,U0460,Kendrick Lamar,Electric Garden,1:33,AT,mobile
+427,"7 Sep 2026, 15:22",U0681,Billie Eilish,Electric Stars,1:38,DE,mobile
+428,2026-09-06 16:27:03,U0024,David Guetta,Silent Lights,154,HU,smart_speaker
+429,2026-09-07 19:19:33,U0344,billie eilish,Velvet River,157s,CZ,mobile
+430,2026-09-03 14:57:39,U0385,Bad Bunny,Northern Highway,151,at,Mobile
+431,"7 Sep 2026, 21:03",U0281,imagine dragons, Golden Mirrors  ,4:34,SK,MOBILE
+432,2026-09-07 17:01:45,U0096,  Kendrick Lamar ,Lonely Highway,0:30,SK,mobile
+433,2026-09-07 20:04:27,U0603,Adele,Crystal Dreams,49,AT,desktop
+434,"3 Sep 2026, 18:46",U0661,Taylor Swift,Endless Promises,104s,AT,Desktop
+435,2026-09-02 01:52:17,U0450,Adele,Faded Waves,unknown,SK,mobile
+436,2026-09-04 19:36:05,U0250,Drake,Cosmic Waves,56,DE,desktop
+437,2026-09-01 20:21:57,U0754,drake,Burning River,113,SK,mobile
+438,02/09/2026 10:27,U0566,DUA LIPA,Faded City,86,hu,desktop
+439,2026-09-03 17:04:04,U0081,  Coldplay ,Golden Signals,75s,SK,Mobile
+440,2026-09-04 05:33:05,U0549,Taylor Swift,Golden Dreams,66,AT,web
+441,2026-09-04 08:29:29,U0705,Daft Punk,Crystal Stars,131,DE,Mobile
+442,2026-09-01 12:37:07,U0261,Kendrick Lamar,endless dreams,1:38,SK,desktop
+443,06/09/2026 14:52,U0777,Bad Bunny,Summer Letters,3:45,AT,mobile
+444,2026-09-02 02:46:17,U0145,Taylor Swift,Northern Ocean,unknown,HU,MOBILE
+445,06/09/2026 19:30,U0608,DRAKE,Burning River,126,DE,mobile
+446,2026-09-07 16:26:28,U0646,adele, Crystal Garden  ,0:32,de,mobile
+447,2026-09-07 20:43:48,U0722,Imagine Dragons,Wild Fire,210,CZ,desktop
+448,04/09/2026 15:03,U0793,Ludovico Einaudi,Velvet Garden,2:50,HU,desktop
+449,"4 Sep 2026, 16:44",U0333,Kendrick Lamar, Endless Dreams  ,1:56,PL,desktop
+450,2026-09-03 21:59:17,U0598,Imagine Dragons,Wild Fire,2:19,AT,desktop
+451,07/09/2026 21:37,U0357,Billie Eilish,Electric Stars,78,AT,mobile
+452,04/09/2026 13:33,U0333,  David Guetta , Faded Hearts  ,97s, PL ,desktop
+453,"2 Sep 2026, 11:50",U0304,The Weeknd,Electric Echoes,2:40,AT,mobile
+454,2026-09-06 06:34:37,U0025,Queen,Cosmic Rain,2:14,at,mobile
+455,04/09/2026 06:52,U0340,Eminem,Neon Dreams,0:37,AT,Mobile
+456,01/09/2026 10:35,U0241,Rosalía,Electric Rain,1:38,SK,mobile
+457,03/09/2026 12:52,U0147,  Dua Lipa ,Electric Thunder,2:37, AT ,mobile
+458,2026-09-02 19:34:41,U0468,Daft Punk,Wild Echoes,3:45,AT,mobile
+459,2026-09-03 19:43:14,U0149,Coldplay,Silent Shadows,50,DE,mobile
+460,06/09/2026 19:48,U0144,Imagine Dragons,Golden Mirrors,188, SK ,mobile
+461,2026-09-07 17:40:35,U0706,DUA LIPA, Little Stars  ,,HU,desktop
+462,2026-09-02 20:12:19,U0484,  Billie Eilish ,Little Lights,204,,MOBILE
+463,"7 Sep 2026, 19:57",U0613,  Billie Eilish , Electric River  ,29s,AT,Desktop
+464,2026-09-04 18:23:13,U0570,Imagine Dragons,golden mirrors,2:48,HU,mobile
+465,"3 Sep 2026, 23:33",U0311,Daft Punk,Crystal Stars,1:53,PL,Web
+466,03/09/2026 17:12,U0287,  Kendrick Lamar ,Paper Signals,197,HU,mobile
+467,2026-09-01 17:04:31,U0402,Ed Sheeran,Northern Ocean,0:48,,Desktop
+468,07/09/2026 12:11,U0040,Billie Eilish, Electric River  ,1:37,AT,Smart_speaker
+469,"1 Sep 2026, 21:05",U0272,daft punk,Faded City,0:23,AT,MOBILE
+470,2026-09-05 21:30:26,U0031,eminem,Hidden City,1:06,PL,smart_speaker
+471,07/09/2026 03:27,U0200,Taylor Swift,Northern Ocean,202,AT,smart_speaker
+472,"1 Sep 2026, 07:33",U0176,Coldplay,hidden skyline,3:38,AT,mobile
+473,05/09/2026 10:08,U0734,DAVID GUETTA,Faded Hearts,1:24,hu,mobile
+474,2026-09-03 16:43:48,U0160,Billie Eilish, Midnight Garden  ,0:42,pl,desktop
+562,03/09/2026 15:39,U0625,Billie Eilish,Northern Signals,164,SK,desktop
+475,06/09/2026 19:37,U0097,Eminem,Cosmic Echoes,73,CZ,mobile
+476,03/09/2026 21:58,U0126,Ludovico Einaudi,Northern River,76s,SK,desktop
+477,2026-09-04 20:06:04,U0708,Kendrick Lamar,Endless Dreams,1:31,AT,Mobile
+478,05/09/2026 03:59,U0030,Eminem,Little Garden,31,AT,mobile
+479,2026-09-05 07:50:14,U0696,  Billie Eilish ,Electric River,1:14,DE,mobile
+480,06/09/2026 08:19,U0201,EMINEM,Hidden City,0:33,AT,web
+481,2026-09-05 11:45:49,U0795,CALVIN HARRIS,Silent Ocean,0:56,CZ,desktop
+482,2026-09-06 08:06:01,U0717,Billie Eilish,Northern Signals,2:25,DE,Mobile
+577,2026-09-04 19:20:19,U0340,queen,Wild Stars,2:40,AT,mobile
+483,2026-09-02 17:44:43,U0689,David Guetta,Broken Skyline,276,PL,Smart_speaker
+484,07/09/2026 18:11,U0110,  Adele ,Lonely Lights,62, AT ,mobile
+247,2026-09-01 22:04:08,U0675,Drake,Summer Letters,3:58,HU,desktop
+485,"5 Sep 2026, 21:56",U0762,DAVID GUETTA,Broken Skyline,0:39,DE,Mobile
+486,2026-09-05 08:53:12,U0664,  Rosalía ,electric rain,1:31,AT,Mobile
+487,2026-09-05 06:03:05,U0275,Billie Eilish,Crystal Mirrors,85s,,mobile
+488,2026-09-05 20:19:38,U0663,TAYLOR SWIFT,Endless Promises,1:07, CZ ,desktop
+489,06/09/2026 20:27,U0432,billie eilish,Faded Stars,0:38, DE ,mobile
+490,"6 Sep 2026, 07:47",U0418,Drake,Cosmic Waves,0:11,SK,web
+491,2026-09-01 12:56:21,U0480,Imagine Dragons, Silver River  ,142,HU,mobile
+492,2026-09-04 12:03:39,U0158,CALVIN HARRIS,Little Promises,4:24,,desktop
+493,"6 Sep 2026, 07:54",U0422,Rosalía,Northern Hearts,2:37,AT,desktop
+494,07/09/2026 18:48,U0719,The Weeknd,Electric Echoes,79s,HU,Mobile
+495,2026-09-01 18:35:57,U0314,Dua Lipa,Little Stars,0:35,SK,MOBILE
+496,06/09/2026 20:37,U0223,  Dua Lipa ,Little Thunder,149,sk,Desktop
+497,2026-09-01 07:05:35,U0185,  Ludovico Einaudi ,Velvet Garden,4:20,HU,desktop
+498,2026-09-07 17:33:53,U0168,billie eilish,Faded Stars,8s,AT,mobile
+499,2026-09-05 18:06:38,U0424,Dua Lipa,Little Stars,79s,cz,mobile
+500,2026-09-01 18:05:54,U0597,EMINEM,velvet signals,1:25,,MOBILE
+501,03/09/2026 14:54,U0473,Queen,Silent Rain,235,at,mobile
+502,06/09/2026 13:03,U0295,EMINEM,Northern Thunder,114s,DE,mobile
+503,06/09/2026 17:42,U0422,drake, Cosmic Lights  ,177,AT,desktop
+504,2026-09-07 21:03:18,U0710,  Adele ,Lonely Lights,1:20,SK,Mobile
+505,04/09/2026 16:37,U0525,ADELE,Crystal Dreams,116,AT,desktop
+506,2026-09-05 13:13:56,U0003,Ed Sheeran,Paper Dreams,130,CZ,mobile
+507,02/09/2026 19:26,U0320,Queen,Cosmic Rain,180,SK,web
+508,2026-09-02 13:53:34,U0754,  Coldplay ,Neon Hearts,86,SK,mobile
+509,2026-09-04 12:06:20,U0487,DAVID GUETTA,Neon Hearts,68, SK ,smart_speaker
+510,02/09/2026 23:10,U0521,DAFT PUNK,Crystal Stars,unknown,PL,mobile
+511,2026-09-07 07:04:22,U0026,billie eilish,Electric Stars,2:22,,Mobile
+512,2026-09-01 19:56:57,U0064,Eminem,Velvet Signals,0:47,SK,Mobile
+513,"5 Sep 2026, 11:43",U0527,Calvin Harris,Silent Ocean,237,DE,WEB
+514,"2 Sep 2026, 02:09",U0572,  Dua Lipa ,Little Stars,151,at,web
+515,2026-09-05 07:39:09,U0169,David Guetta, Velvet Highway  ,165s,AT,mobile
+516,"7 Sep 2026, 20:40",U0368,DAVID GUETTA, Faded Hearts  ,3:25,CZ,DESKTOP
+517,02/09/2026 19:34,U0638,THE WEEKND, Broken Thunder  ,73,SK,web
+518,"4 Sep 2026, 21:57",U0687,Drake,Silver Lights,2:51,PL,desktop
+519,2026-09-04 18:23:14,U0480,ED SHEERAN, Velvet Skyline  ,188,HU,mobile
+520,2026-09-01 10:50:40,U0686,Ludovico Einaudi,Velvet Fire,6:20,,desktop
+521,2026-09-07 22:00:05,U0715,Ed Sheeran,northern ocean,1:24,HU,mobile
+522,"6 Sep 2026, 20:47",U0409,  Ludovico Einaudi ,Northern River,40,DE,mobile
+523,2026-09-05 12:26:45,U0067,The Weeknd,Paper Stars,2:44,PL,DESKTOP
+524,2026-09-03 08:47:56,U0375,Drake,Hidden Waves,unknown, SK ,desktop
+525,03/09/2026 19:29,U0370,Queen,Faded Shadows,0:59,DE,Desktop
+176,2026-09-05 00:16:28,U0625,bad bunny, Summer Letters  ,164s,sk,desktop
+526,"2 Sep 2026, 16:29",U0728,Ed Sheeran,Faded City,,CZ,desktop
+527,07/09/2026 21:23,U0628,Kendrick Lamar,Endless Dreams,104s,PL,mobile
+528,"4 Sep 2026, 15:02",U0728,  Queen ,Endless Dreams,3:18, CZ ,desktop
+529,2026-09-06 22:18:15,U0605,Dua Lipa, Little Stars  ,2:35,AT,Mobile
+530,05/09/2026 19:26,U0332,Taylor Swift,electric skyline,54,CZ,mobile
+531,03/09/2026 06:47,U0488,Taylor Swift, Little Ocean  ,5,AT,desktop
+532,2026-09-04 04:36:47,U0589,  Rosalía ,Electric Rain,1:17,de,mobile
+533,"4 Sep 2026, 16:27",U0633,  Rosalía ,Broken City,159,PL,Smart_speaker
+469,"1 Sep 2026, 21:05",U0272,daft punk,Faded City,0:23,AT,MOBILE
+534,2026-09-02 17:25:35,U0025,BAD BUNNY, Broken Ocean  ,0:32,AT,mobile
+535,"6 Sep 2026, 13:16",U0610,Rosalía,Lonely City,0:38,DE,Smart_speaker
+536,07/09/2026 06:04,U0197,Kendrick Lamar,Little Skyline,0:22,HU,MOBILE
+537,07/09/2026 16:48,U0350,Imagine Dragons,Golden Mirrors,4:55,SK,mobile
+538,2026-09-02 22:17:45,U0527,Rosalía, Broken Highway  ,0:08,DE,web
+539,07/09/2026 08:23,U0228,  Ed Sheeran ,Faded City,94s,cz,mobile
+540,03/09/2026 21:02,U0253,  Billie Eilish ,Little Lights,3:00,SK,mobile
+541,"6 Sep 2026, 06:39",U0764,BAD BUNNY,Endless Thunder,0:45,PL,DESKTOP
+542,2026-09-06 12:47:49,U0359,DAVID GUETTA,Paper Lights,106s,CZ,Mobile
+543,2026-09-02 06:35:56,U0172,David Guetta,Silent Lights,80,CZ,mobile
+334,2026-09-03 22:30:27,U0150,  Billie Eilish ,Little Lights,3:05,SK,MOBILE
+544,04/09/2026 11:18,U0614,the weeknd,Neon Highway,,AT,desktop
+545,2026-09-01 22:59:38,U0410,Ed Sheeran,Northern Ocean,0:07,AT,mobile
+546,04/09/2026 03:48,U0481,Taylor Swift,little ocean,0:22,HU,desktop
+547,2026-09-02 18:40:45,U0233,Rosalía,Silver Hearts,3:35,cz,mobile
+548,2026-09-07 03:11:18,U0194,Kendrick Lamar,Lonely Highway,3:52,DE,mobile
+549,"6 Sep 2026, 20:34",U0573,David Guetta, Neon Hearts  ,2:01,cz,mobile
+550,"1 Sep 2026, 09:45",U0525,Calvin Harris,Paper Shadows,219,AT,Desktop
+551,07/09/2026 20:21,U0600,The Weeknd, Broken Thunder  ,151,DE,MOBILE
+552,"2 Sep 2026, 11:22",U0755,The Weeknd,Endless Highway,2:07,SK,web
+553,2026-09-02 16:12:33,U0040,Hans Zimmer, Paper Garden  ,124, AT ,smart_speaker
+554,"2 Sep 2026, 07:32",U0504,DAVID GUETTA,Paper Lights,2:02,DE,desktop
+555,2026-09-06 03:30:27,U0778,ADELE,Little Mirrors,178,CZ,Desktop
+556,07/09/2026 14:33,U0474,The Weeknd,Electric Echoes,unknown,AT,mobile
+557,2026-09-05 18:14:31,U0741,kendrick lamar,faded skyline,87,SK,Mobile
+558,2026-09-02 08:31:46,U0040,Rosalía,Northern Hearts,2:39, AT ,SMART_SPEAKER
+559,2026-09-05 19:01:37,U0485,The Weeknd,Neon Highway,2:58,PL,Desktop
+560,2026-09-02 12:29:42,U0266,  Drake ,Northern Mirrors,137,AT,mobile
+561,"6 Sep 2026, 08:53",U0340,LUDOVICO EINAUDI,Velvet Fire,126s,AT,mobile
+562,03/09/2026 15:39,U0625,Billie Eilish,Northern Signals,164,SK,desktop
+563,01/09/2026 12:30,U0045,Daft Punk,Faded City,22,PL,Mobile
+564,04/09/2026 12:22,U0577,rosalía,Electric Rain,141,,desktop
+565,2026-09-06 18:25:09,U0354,Drake,Electric Waves,1:29,AT,mobile
+566,2026-09-01 21:35:21,U0027,  The Weeknd ,Neon Highway,1:33,pl,mobile
+567,2026-09-04 13:49:28,U0796,Bad Bunny, Summer Letters  ,66,hu,MOBILE
+568,"4 Sep 2026, 20:07",U0010,Billie Eilish, Crystal Mirrors  ,,sk,Desktop
+569,2026-09-01 16:58:33,U0339,Queen,Endless Dreams,5:14,PL,mobile
+570,"4 Sep 2026, 12:11",U0155,David Guetta,Faded Hearts,3:38,SK,mobile
+571,2026-09-02 15:48:40,U0379,Dua Lipa,Silent Hearts,164,SK,web
+572,2026-09-07 17:57:03,U0083,Drake,Burning River,3:17,HU,mobile
+573,2026-09-07 07:33:32,U0210,david guetta, Neon Fire  ,244,AT,desktop
+574,"1 Sep 2026, 07:44",U0665,  Taylor Swift ,northern ocean,1:42,SK,smart speaker
+575,2026-09-01 02:37:07,U0253,DAVID GUETTA,broken skyline,0:34,SK,Mobile
+576,2026-09-05 15:44:15,U0265,Billie Eilish,Crystal Mirrors,3:35,PL,mobile
+577,2026-09-04 19:20:19,U0340,queen,Wild Stars,2:40,AT,mobile
+578,2026-09-06 19:24:32,U0022,  Taylor Swift , Electric Skyline  ,0:44,AT,desktop
+579,2026-09-05 14:09:31,U0363,Coldplay,Wild City,2:35,AT,Desktop
+580,2026-09-06 07:27:48,U0366,Dua Lipa,silent hearts,2:02,CZ,mobile
+581,2026-09-05 16:51:19,U0136,Billie Eilish, Little Lights  ,2:30,DE,Mobile
+582,2026-09-06 19:42:55,U0619,David Guetta,Faded Hearts,204s,SK,Web
+583,01/09/2026 17:31,U0617,Drake, Burning River  ,11,AT,mobile
+584,03/09/2026 19:32,U0485,Bad Bunny,Endless Thunder,,PL,desktop
+585,02/09/2026 10:35,U0098,  Taylor Swift ,Summer City,236,,mobile
+586,01/09/2026 02:34,U0345,  Drake ,summer letters,0:53,HU,MOBILE
+587,07/09/2026 19:42,U0108,Bad Bunny, Silent Skyline  ,12,PL,Mobile
+588,2026-09-07 21:08:57,U0797,hans zimmer,Burning Skyline,54s,,desktop
+589,2026-09-02 01:33:51,U0063,Billie Eilish,Lonely Rain,119s,PL,mobile
+590,2026-09-07 08:17:19,U0420,Ludovico Einaudi,Silver River,253,sk,mobile
+591,2026-09-03 20:32:45,U0429,Drake,Burning River,1:12,SK,mobile
+592,"1 Sep 2026, 23:06",U0636,Daft Punk,Wild Echoes,73,CZ,Mobile
+593,2026-09-02 18:24:57,U0145,daft punk,Velvet Rain,266,hu,mobile
+594,02/09/2026 19:08,U0302,Kendrick Lamar,Electric Garden,3:45,AT,Mobile
+595,"5 Sep 2026, 08:57",U0726,  David Guetta ,Neon Hearts,, PL ,mobile
+596,"7 Sep 2026, 15:43",U0115,daft punk,Wild Echoes,19s,AT,mobile
+597,03/09/2026 15:49,U0227,David Guetta,Silent Lights,1:46,CZ,mobile
+598,2026-09-07 19:40:58,U0269,adele,Little Mirrors,1:23,DE,mobile
+599,2026-09-01 19:57:17,U0063,Queen,Endless Dreams,3:36,PL,Mobile
+600,"7 Sep 2026, 08:47",U0448,Coldplay,Neon Hearts,unknown,DE,mobile

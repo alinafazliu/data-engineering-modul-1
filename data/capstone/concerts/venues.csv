@@ -1,0 +1,11 @@
+venue_id,venue_name,city,country,capacity
+V01,Wiener Stadthalle,Vienna,AT,16000
+V02,Gasometer,Vienna,AT,3500
+V03,Ondrej Nepela Arena,Bratislava,SK,10000
+V04,MVM Dome,Budapest,HU,20000
+V05,Budapest Park,Budapest,HU,10000
+V06,O2 Arena,Prague,CZ,18000
+V07,Lucerna Music Bar,Prague,CZ,800
+V08,Uber Arena,Berlin,DE,17000
+V09,Olympiastadion,Munich,DE,69000
+V10,Tauron Arena,Kraków,PL,15000

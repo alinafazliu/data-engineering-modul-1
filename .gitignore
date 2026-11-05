@@ -1,0 +1,11 @@
+output/
+lake/
+work/
+work_events/
+work_sourcing/
+landing/
+capstone_lake/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.student_export

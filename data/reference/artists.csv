@@ -1,0 +1,21 @@
+artist_id,artist_name,country,genre
+A01,Taylor Swift,US,pop
+A02,Dua Lipa,GB,pop
+A03,The Weeknd,CA,pop
+A04,Billie Eilish,US,pop
+A05,Ed Sheeran,GB,pop
+A06,Adele,GB,pop
+A07,Bad Bunny,PR,latin
+A08,Rosalía,ES,latin
+A09,Kendrick Lamar,US,hip-hop
+A10,Drake,CA,hip-hop
+A11,Eminem,US,hip-hop
+A12,Daft Punk,FR,electronic
+A13,David Guetta,FR,electronic
+A14,Calvin Harris,GB,electronic
+A15,Coldplay,GB,rock
+A16,Arctic Monkeys,GB,rock
+A17,Imagine Dragons,US,rock
+A18,Queen,GB,rock
+A19,Hans Zimmer,DE,classical
+A20,Ludovico Einaudi,IT,classical

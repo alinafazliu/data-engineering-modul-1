@@ -1,0 +1,31 @@
+concert_id,artist_name,venue_id,concert_date
+C001,The Weeknd,V03,2026-12-12
+C002,Ludovico Einaudi,V09,2026-12-25
+C003,Taylor Swift,V05,2027-02-15
+C004,Queen,V02,2026-12-27
+C005,The Weeknd,V07,2027-03-26
+C006,Dua Lipa,V09,2027-03-08
+C007,Drake,V08,2026-12-02
+C008,Bad Bunny,V07,2027-02-27
+C009,Taylor Swift,V06,2027-02-18
+C010,Ludovico Einaudi,V07,2026-11-17
+C011,Kendrick Lamar,V08,2027-03-04
+C012,Ludovico Einaudi,V05,2026-12-16
+C013,Taylor Swift,V06,2026-12-31
+C014,Dua Lipa,V07,2026-11-12
+C015,Calvin Harris,V10,2026-11-06
+C016,Dua Lipa,V03,2026-12-10
+C017,Rosalía,V04,2027-01-29
+C018,Drake,V09,2026-12-23
+C019,Hans Zimmer,V02,2026-12-30
+C020,Kendrick Lamar,V10,2027-03-01
+C021,Ed Sheeran,V08,2027-03-08
+C022,Ludovico Einaudi,V04,2026-10-17
+C023,Adele,V05,2026-10-08
+C024,Calvin Harris,V01,2027-02-28
+C025,Coldplay,V04,2027-01-03
+C026,David Guetta,V03,2027-03-23
+C027,Bad Bunny,V01,2027-01-21
+C028,Eminem,V10,2027-02-12
+C029,Ed Sheeran,V01,2027-01-20
+C030,Calvin Harris,V07,2027-01-25

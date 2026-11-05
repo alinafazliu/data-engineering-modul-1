@@ -1,0 +1,13 @@
+show_id,show_name,category,language
+S01,Data Bytes,technology,en
+S02,Morning Brief,news,en
+S03,Vienna Calling,culture,de
+S04,Crime Files,true crime,en
+S05,Fit in 20,health,en
+S06,Startup Stories,business,en
+S07,Hudba a my,music,cs
+S08,Történelem Óra,history,hu
+S09,Football Weekly Chat,sports,en
+S10,Mind Matters,science,en
+S11,Kitchen Club,food,de
+S12,Laugh Track,comedy,en

@@ -1,0 +1,8 @@
+pyspark>=3.5,<3.6
+jupyterlab
+requests
+paramiko
+boto3
+pandas
+matplotlib
+python-pptx
